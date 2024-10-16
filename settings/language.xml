@@ -105,13 +105,13 @@
         <item id="surveyModalText">Finally, please answer the following questions regarding your background. The questions marked with an &quot;*&quot; in their title are required.{{{br/}}}{{{br/}}}{{{center}}}{{{iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/68MHzgLn1zg?rel=0&quot; title=&quot;YouTube video player&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&quot; allowfullscreen}}}{{{/iframe}}}{{{/center}}}</item>
         <item id="surveyPreventNavModalHead">Navigation Disabled</item>
         <item id="surveyPreventNavModalText">Please answer the {{{b}}}nine{{{/b}}} required questions (outlined in yellow) before going to the next step.</item>
-       
+
         <!-- SUBMIT -->
         <item id="btnTransfer">Submit Data, please wait until the submission is finalised</item>
         <item id="transferHead">Final Step</item>
         <item id="transferTextAbove">{{{h1}}}Ready to Submit{{{/h1}}}{{{br/}}}{{{br/}}} {{{h2}}}Please click the &quot;Submit Data&quot; button to transmit your results.{{{/h2}}}</item>
         <item id="transferTextBelow">If the submission confirmation message does not appear, {{{br/}}}please wait a few minutes and click the submit button again.</item>
-        <item id="transferOkModalHeader">Success - The data have been sent to the server.</item>   
+        <item id="transferOkModalHeader">PLEASE WAIT 60 SECONDS BEFORE CLOSING THIS WINDOW. Thank you.</item>   
         <item id="transferOkModalText">Thank you for your participation!{{{br/}}}{{{br/}}}You can now close your browser tab.</item>
         <item id="transferFailModalHeader">Connection to server failed</item>   
         <item id="transferFailModalText">Please try again in a few moments.</item>   
